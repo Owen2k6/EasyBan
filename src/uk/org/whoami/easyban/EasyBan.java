@@ -1,6 +1,7 @@
 package uk.org.whoami.easyban;
 
 import com.johnymuffin.discordcore.DiscordCore;
+import com.johnymuffin.*;
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.event.Event;
